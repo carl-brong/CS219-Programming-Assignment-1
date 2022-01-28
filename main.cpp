@@ -25,7 +25,7 @@ int main(){
 	}
 	
 	int i = 0;
-	while(i<= count){
+	while(i<= count){/*finds the beginning where it says 'ADD' in order to initiate the addHex function*/
 		if(input[i] == "ADD"){
 			i = addHex(input, i);
 		}
