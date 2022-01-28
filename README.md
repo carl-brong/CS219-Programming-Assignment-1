@@ -1,6 +1,7 @@
 # CS219-Programming-Assignment-1
 Hex Reader in C
 CLONE REPOSITORY : https://github.com/carl-brong/CS219-Programming-Assignment-1.git
+
 BUILD INSTRUCTIONS:
 1. make
 2. ./hexReader
