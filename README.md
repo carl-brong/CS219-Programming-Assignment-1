@@ -1,4 +1,5 @@
 # CS219-Programming-Assignment-1
+Hex Reader in C
 BUILD INSTRUCTIONS:
 1. make
 2. ./hexReader
